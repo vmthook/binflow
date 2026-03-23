@@ -1,7 +1,4 @@
 # binflow
-
-/* @author vmthook - Advanced binary control flow analyzer. */
-
 binflow is a modular C++ system for binary analysis, PE parsing, and disassembly. It captures extensive data and exports them into JSON logs and visual PNG flow graphs.
 
 ## Dependencies
